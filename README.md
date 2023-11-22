@@ -1,0 +1,2 @@
+# supeffective.com
+Alt domain
