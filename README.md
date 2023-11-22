@@ -1,2 +1,1 @@
-# supeffective.com
-Alt domain
+Alternative domain for supereffective.gg
